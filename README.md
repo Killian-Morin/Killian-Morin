@@ -3,7 +3,8 @@
 ### About
 <p align="left">
 - 🎓 I'm currently studying at 42 Lausanne <br>
-- ❤️ Interests: coding, learning, books, movies and anime
+- ⚛ Right now I'm learning x86 Assembly and Quantum Computing using Qiskit (Python framework made by IBM) <br>
+- 🧐 I am pretty curious about various things and I like to pass time with books, movies or animes.
 </p>
 
 <p>
