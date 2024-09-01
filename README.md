@@ -2,8 +2,9 @@
 
 ### About
 <p align="left">
-- 🎓 I'm currently studying at 42 Lausanne <br>
-- ⚛ Right now I'm learning x86 Assembly and Quantum Computing using Qiskit (Python framework made by IBM) <br>
+- 🎓 I'm studying at 42 Lausanne <br>
+- 📝 Right now I'm learning x86 Assembly and discover CyberSecurity with <a href="https://pwn.college/">pwn.college</a> <br>
+- ⚛ I also do Quantum Computing using Qiskit (Python framework made by IBM) for a 42 project, that you can check <a href="https://github.com/Killian-Morin/ftl_quantum">here</a> <br>
 - 🧐 I am pretty curious about various things and I like to pass time with books, movies or animes.
 </p>
 
