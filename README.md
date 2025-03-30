@@ -2,25 +2,15 @@
 
 $\color{red}\rule{500px}{2px}$
 
-## A propos de moi / About me
+## A propos de moi
 
-🇫🇷
-- Je suis étudiant à 42 Lausanne.
+- étudiant à 42 Lausanne
 
-- Actuellement je m'essaie à differentes technologies et domaines de programmation dans le but de trouver celui qui me plairait le plus mais également pour diversifier mes compétences.
+- vise à obtenir le [RNCP 6 - branche Développement applicatif](https://www.francecompetences.fr/recherche/rncp/39783/) et peut être plus tard le [RNCP 7](https://www.francecompetences.fr/recherche/rncp/39774/)
 
-- Je suis passionné par la littérature 📚 (SF, romans classiques, espace/physique, manga ...), j'apprécie voir des films, me dépenser avec du sport 🏊‍♂️, jouer à des jeux (principalement solo/immersif) ou encore faire des CTF avec des collègues de 42 Lausanne.
+- j'apprécie lire (SF, romans, espace/physique, manga), le sport (natation, course, musculation)
 
-- Mes diverses activités, combinées avec mes études me permettent de satisfaire ma curiosité et me motive à explorer et en apprendre encore plus sur différents sujets qui m'intéressent (l'univers/espace, créativité via les livres/manga, les jeux ou les films ...).
-
-🗺️
-- I am a student at 42 Lausanne.
-
-- My goal for the moment is to get my hands on diverse technologies and languages in order to acquire various knowledge and a skill base that I can reuse in different projects.
-
-- I enjoy reading 📚 everything I get my hands on (SF, popular novels, space, manga) as well as watching movies, playing video games (mainly solo/immersive), exercice through sport 🏊‍♂️ or doing CTF with 42 Lausanne friends.
-
-- I am naturally pretty curious so all these activities allow me to satisfy it while also keeping the need/want to learn even more on divers subjects that are intriguing to me (univers/space, creativity through different mediums ...).
+- vise un travail et des missions avec un **sens** et qui pourrait lier mes intérêts (espace/phyisque, science)
 
 $\color{#8cecb6}\rule{500px}{2px}$
 
@@ -54,35 +44,23 @@ $\color{#c788f2}\rule{500px}{2px}$
 
 ### Qiskit (Python)
 - **[ftl_quantum](https://github.com/Killian-Morin/42-ftl_quantum)**:
-🇫🇷 Une introduction à la programmation quantique en utilisant le framework d'IBM, Qiskit et les CPUs quantiques qu'ils mettent à disposition.
-🗺️ An introduction to the quantum computing using IBM's framework: Qiskit and quantum computer.
+Une introduction à la programmation quantique en utilisant le framework d'IBM, Qiskit et les CPUs quantiques qu'ils mettent à disposition.
 
 ### Assembly
 - **[libasm](https://github.com/Killian-Morin/42-libasm)**:
-🇫🇷 Petite librairie de fonctions recodées en Assembly, suivant la syntaxe d'Intel pour x86-64.
-🗺️ Introductory project to Assembly language using the Intel syntax and x86-64.
+Petite librairie de fonctions recodées en Assembly, suivant la syntaxe d'Intel pour x86-64.
 
 ### [pwn.college](https://pwn.college/) / CTF
-- 🇫🇷 Plateforme d'apprentissage faite par une équipe de l'Université d'Arizona pour découvrir et se faire la main sur des exercices de **Cybersécurité**.
+- Plateforme d'apprentissage faite par une équipe de l'Université d'Arizona pour découvrir et se faire la main sur des exercices de **Cybersécurité**.
   Une petite équipe d'étudiants de 42 Lausanne, dont je fais partis, s'est lancée dans cette formidable ressource afin d'élargir nos connaissances et de nous spécialiser dans la Cybersécurité.
   Nous participons également régulièrement à des CTFs pour se confronter à d'autres challenges et appliquer nos connaissances.
   Suiver mes progrès: https://pwn.college/hacker/komorebi
-- 🗺️
-  > pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
-  > The platform is maintained by an awesome team of hackers at Arizona State University. It powers much of ASU's cybersecurity curriculum [...]
-
-  A squad of 42 Lausanne students, which I'm a part of, got into it while also regularly partipating in CTF challenges in order to discover the world of Cybersecurity.
-  Follow my progress in the `Dojos`: https://pwn.college/hacker/komorebi
 
 ### Documentation - Notion
 
-- 🇫🇷 La documentation est devenu quelque chose qui me tient très à cœur en en mesurant l'importance durant mon tronc commun de 42 Lausanne.
+- La documentation est devenu quelque chose qui me tient très à cœur en en mesurant l'importance durant mon tronc commun de 42 Lausanne.
   Durant celui-ci je me suis efforcé de documenter ce que j'apprenais, de noter des ressources à étudier plus tard tout en trouvant un format qui me plaisait et avec lequel je suis à l'aise (même s'il est en constant évolution bien sûr).
   Cela m'a permis de mieux structurer mes projets mais également de découvrir des outils très pratiques comme [Notion](https://www.notion.com/) que j'utilise actuellement pour la doc, ou encore le LaTeX et je vais essayer d'autres outils pour stocker et faire mes notes comme [Typst](https://typst.app/).
-
-- 🗺️ A good documentation is something that I discovered to be very important during my common core at 42 Lausanne, be it for a project, to learn something or other things.
-  Since then, I work a lot on those notes for a lot of things that I learn, resources that I might want to have a look later.
-  It allows me to better understand a subject, prepare for a project while also discovering useful tools to help me, like [Notion](https://www.notion.com/), the current platform I use to build my doc, LaTeX for different (generally scientific) notations and I also consider trying some new way to save and do all that with [Typst](https://typst.app/).
 
 $\color{#a2cd51}\rule{500px}{2px}$
 
@@ -91,8 +69,8 @@ $\color{#a2cd51}\rule{500px}{2px}$
 	<a href="https://www.linkedin.com/in/killianmorin/">
 		<img height=40 align="center" src="https://img.shields.io/badge/-KillianMorin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/killianmorin/" />
 	</a>
-	<a href="mailto:killiancham@gmail.com">
-		<img height=40 align="center" src="https://img.shields.io/badge/-KillianMorin-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:killiancham@gmail.com" />
+	<a href="mailto:killianmorin@protonmail.com">
+		<img height=40 align="center" src="https://img.shields.io/badge/-KillianMorin-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:killianmorin@protonmail.com" />
 	</a>
 </div>
 
